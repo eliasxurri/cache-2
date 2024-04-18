@@ -2156,3 +2156,694 @@
 2024-04-18 18:14:59,368 - INFO - Cache miss for item_id 72120. Data fetched from DB. Response time: 0.04998s
 2024-04-18 18:14:59,417 - INFO - Cache miss for item_id 82353. Data fetched from DB. Response time: 0.04726s
 2024-04-18 18:14:59,465 - INFO - Cache miss for item_id 58362. Data fetched from DB. Response time: 0.04301s
+2024-04-18 18:31:32,672 - INFO - Cache miss for item_id 14433. Data fetched from DB. Response time: 0.07645s
+2024-04-18 18:31:32,717 - INFO - Cache miss for item_id 140952. Data fetched from DB. Response time: 0.04244s
+2024-04-18 18:31:32,769 - INFO - Cache miss for item_id 198453. Data fetched from DB. Response time: 0.04650s
+2024-04-18 18:31:32,823 - INFO - Cache miss for item_id 83486. Data fetched from DB. Response time: 0.05048s
+2024-04-18 18:31:32,842 - INFO - Cache hit for item_id 188770. Response time: 0.00022s
+2024-04-18 18:31:32,902 - INFO - Cache miss for item_id 78434. Data fetched from DB. Response time: 0.05707s
+2024-04-18 18:31:32,954 - INFO - Cache miss for item_id 14876. Data fetched from DB. Response time: 0.04888s
+2024-04-18 18:31:33,006 - INFO - Cache miss for item_id 315927. Data fetched from DB. Response time: 0.04031s
+2024-04-18 18:31:33,047 - INFO - Cache miss for item_id 258483. Data fetched from DB. Response time: 0.03730s
+2024-04-18 18:31:33,053 - INFO - Cache hit for item_id 9762. Response time: 0.00150s
+2024-04-18 18:31:33,055 - INFO - Cache hit for item_id 64060. Response time: 0.00035s
+2024-04-18 18:31:33,101 - INFO - Cache miss for item_id 273905. Data fetched from DB. Response time: 0.04370s
+2024-04-18 18:31:33,115 - INFO - Cache hit for item_id 161786. Response time: 0.00021s
+2024-04-18 18:31:33,117 - INFO - Cache hit for item_id 147759. Response time: 0.00034s
+2024-04-18 18:31:33,178 - INFO - Cache miss for item_id 47139. Data fetched from DB. Response time: 0.05834s
+2024-04-18 18:31:33,232 - INFO - Cache miss for item_id 164341. Data fetched from DB. Response time: 0.05284s
+2024-04-18 18:31:33,236 - INFO - Cache hit for item_id 185997. Response time: 0.00051s
+2024-04-18 18:31:33,238 - INFO - Cache hit for item_id 148785. Response time: 0.00015s
+2024-04-18 18:31:33,277 - INFO - Cache miss for item_id 51980. Data fetched from DB. Response time: 0.03756s
+2024-04-18 18:31:33,335 - INFO - Cache miss for item_id 34757. Data fetched from DB. Response time: 0.05518s
+2024-04-18 18:31:33,372 - INFO - Cache miss for item_id 16620. Data fetched from DB. Response time: 0.03540s
+2024-04-18 18:31:33,429 - INFO - Cache miss for item_id 8663. Data fetched from DB. Response time: 0.05083s
+2024-04-18 18:31:33,472 - INFO - Cache miss for item_id 166623. Data fetched from DB. Response time: 0.04136s
+2024-04-18 18:31:33,534 - INFO - Cache miss for item_id 153547. Data fetched from DB. Response time: 0.05682s
+2024-04-18 18:31:33,583 - INFO - Cache miss for item_id 52112. Data fetched from DB. Response time: 0.04769s
+2024-04-18 18:31:33,586 - INFO - Cache hit for item_id 18519. Response time: 0.00075s
+2024-04-18 18:31:33,630 - INFO - Cache miss for item_id 168550. Data fetched from DB. Response time: 0.04279s
+2024-04-18 18:31:33,686 - INFO - Cache miss for item_id 145563. Data fetched from DB. Response time: 0.05439s
+2024-04-18 18:31:33,687 - INFO - Cache hit for item_id 316392. Response time: 0.00039s
+2024-04-18 18:31:33,728 - INFO - Cache miss for item_id 167814. Data fetched from DB. Response time: 0.03895s
+2024-04-18 18:31:33,730 - INFO - Cache hit for item_id 282866. Response time: 0.00038s
+2024-04-18 18:31:33,775 - INFO - Cache miss for item_id 15453. Data fetched from DB. Response time: 0.04425s
+2024-04-18 18:31:33,776 - INFO - Cache hit for item_id 200517. Response time: 0.00032s
+2024-04-18 18:31:33,780 - INFO - Cache hit for item_id 277890. Response time: 0.00046s
+2024-04-18 18:31:33,782 - INFO - Cache hit for item_id 311126. Response time: 0.00038s
+2024-04-18 18:31:33,783 - INFO - Cache hit for item_id 281585. Response time: 0.00036s
+2024-04-18 18:31:33,784 - INFO - Cache hit for item_id 167526. Response time: 0.00042s
+2024-04-18 18:31:33,785 - INFO - Cache hit for item_id 68443. Response time: 0.00053s
+2024-04-18 18:31:33,851 - INFO - Cache miss for item_id 246907. Data fetched from DB. Response time: 0.06548s
+2024-04-18 18:31:33,918 - INFO - Cache miss for item_id 191548. Data fetched from DB. Response time: 0.06548s
+2024-04-18 18:31:33,980 - INFO - Cache miss for item_id 303571. Data fetched from DB. Response time: 0.05171s
+2024-04-18 18:31:34,062 - INFO - Cache miss for item_id 5044. Data fetched from DB. Response time: 0.07124s
+2024-04-18 18:31:34,066 - INFO - Cache hit for item_id 179132. Response time: 0.00133s
+2024-04-18 18:31:34,071 - INFO - Cache hit for item_id 300112. Response time: 0.00055s
+2024-04-18 18:31:34,151 - INFO - Cache miss for item_id 29100. Data fetched from DB. Response time: 0.07432s
+2024-04-18 18:31:34,155 - INFO - Cache hit for item_id 67075. Response time: 0.00071s
+2024-04-18 18:31:34,162 - INFO - Cache hit for item_id 306961. Response time: 0.00436s
+2024-04-18 18:31:34,166 - INFO - Cache hit for item_id 151217. Response time: 0.00039s
+2024-04-18 18:31:34,228 - INFO - Cache miss for item_id 241678. Data fetched from DB. Response time: 0.05933s
+2024-04-18 18:31:34,235 - INFO - Cache hit for item_id 197296. Response time: 0.00107s
+2024-04-18 18:31:34,308 - INFO - Cache miss for item_id 174779. Data fetched from DB. Response time: 0.06813s
+2024-04-18 18:31:34,390 - INFO - Cache miss for item_id 194177. Data fetched from DB. Response time: 0.07586s
+2024-04-18 18:31:34,475 - INFO - Cache miss for item_id 203832. Data fetched from DB. Response time: 0.08267s
+2024-04-18 18:31:34,562 - INFO - Cache miss for item_id 214544. Data fetched from DB. Response time: 0.08500s
+2024-04-18 18:31:34,648 - INFO - Cache miss for item_id 285667. Data fetched from DB. Response time: 0.08333s
+2024-04-18 18:31:34,716 - INFO - Cache miss for item_id 312117. Data fetched from DB. Response time: 0.06530s
+2024-04-18 18:31:34,774 - INFO - Cache miss for item_id 53448. Data fetched from DB. Response time: 0.05566s
+2024-04-18 18:31:34,818 - INFO - Cache miss for item_id 249337. Data fetched from DB. Response time: 0.04210s
+2024-04-18 18:31:34,884 - INFO - Cache miss for item_id 177119. Data fetched from DB. Response time: 0.06456s
+2024-04-18 18:31:34,887 - INFO - Cache hit for item_id 199364. Response time: 0.00072s
+2024-04-18 18:31:34,889 - INFO - Cache hit for item_id 268973. Response time: 0.00078s
+2024-04-18 18:31:34,892 - INFO - Cache hit for item_id 231497. Response time: 0.00037s
+2024-04-18 18:31:34,966 - INFO - Cache miss for item_id 50441. Data fetched from DB. Response time: 0.06909s
+2024-04-18 18:31:34,967 - INFO - Cache hit for item_id 265115. Response time: 0.00013s
+2024-04-18 18:31:35,018 - INFO - Cache miss for item_id 79527. Data fetched from DB. Response time: 0.05072s
+2024-04-18 18:31:35,086 - INFO - Cache miss for item_id 217122. Data fetched from DB. Response time: 0.05397s
+2024-04-18 18:31:35,090 - INFO - Cache hit for item_id 283519. Response time: 0.00148s
+2024-04-18 18:31:35,092 - INFO - Cache hit for item_id 12241. Response time: 0.00058s
+2024-04-18 18:31:35,143 - INFO - Cache miss for item_id 111888. Data fetched from DB. Response time: 0.04914s
+2024-04-18 18:31:35,194 - INFO - Cache miss for item_id 220359. Data fetched from DB. Response time: 0.04834s
+2024-04-18 18:31:35,196 - INFO - Cache hit for item_id 269175. Response time: 0.00017s
+2024-04-18 18:31:35,254 - INFO - Cache miss for item_id 138504. Data fetched from DB. Response time: 0.05622s
+2024-04-18 18:31:35,310 - INFO - Cache miss for item_id 13823. Data fetched from DB. Response time: 0.05497s
+2024-04-18 18:31:35,312 - INFO - Cache hit for item_id 289853. Response time: 0.00014s
+2024-04-18 18:31:35,363 - INFO - Cache miss for item_id 54393. Data fetched from DB. Response time: 0.05044s
+2024-04-18 18:31:35,365 - INFO - Cache hit for item_id 121576. Response time: 0.00008s
+2024-04-18 18:31:35,409 - INFO - Cache miss for item_id 129025. Data fetched from DB. Response time: 0.04316s
+2024-04-18 18:31:35,413 - INFO - Cache hit for item_id 311020. Response time: 0.00067s
+2024-04-18 18:31:35,416 - INFO - Cache hit for item_id 128652. Response time: 0.00022s
+2024-04-18 18:31:35,468 - INFO - Cache miss for item_id 192863. Data fetched from DB. Response time: 0.04902s
+2024-04-18 18:31:35,510 - INFO - Cache miss for item_id 213283. Data fetched from DB. Response time: 0.04050s
+2024-04-18 18:31:35,512 - INFO - Cache hit for item_id 207724. Response time: 0.00009s
+2024-04-18 18:31:35,554 - INFO - Cache miss for item_id 258019. Data fetched from DB. Response time: 0.04101s
+2024-04-18 18:31:35,602 - INFO - Cache miss for item_id 160294. Data fetched from DB. Response time: 0.04603s
+2024-04-18 18:31:35,663 - INFO - Cache miss for item_id 54384. Data fetched from DB. Response time: 0.05927s
+2024-04-18 18:31:35,712 - INFO - Cache miss for item_id 14742. Data fetched from DB. Response time: 0.04540s
+2024-04-18 18:31:35,714 - INFO - Cache hit for item_id 51026. Response time: 0.00038s
+2024-04-18 18:31:35,716 - INFO - Cache hit for item_id 21501. Response time: 0.00050s
+2024-04-18 18:31:35,756 - INFO - Cache miss for item_id 201695. Data fetched from DB. Response time: 0.03891s
+2024-04-18 18:31:35,759 - INFO - Cache hit for item_id 208830. Response time: 0.00033s
+2024-04-18 18:31:35,799 - INFO - Cache miss for item_id 71527. Data fetched from DB. Response time: 0.03978s
+2024-04-18 18:31:35,801 - INFO - Cache hit for item_id 276380. Response time: 0.00008s
+2024-04-18 18:31:35,801 - INFO - Cache hit for item_id 308861. Response time: 0.00007s
+2024-04-18 18:31:35,853 - INFO - Cache miss for item_id 67909. Data fetched from DB. Response time: 0.05066s
+2024-04-18 18:31:35,901 - INFO - Cache miss for item_id 257448. Data fetched from DB. Response time: 0.04645s
+2024-04-18 18:31:35,952 - INFO - Cache miss for item_id 238153. Data fetched from DB. Response time: 0.04962s
+2024-04-18 18:31:36,003 - INFO - Cache miss for item_id 294476. Data fetched from DB. Response time: 0.04871s
+2024-04-18 18:31:36,071 - INFO - Cache miss for item_id 244114. Data fetched from DB. Response time: 0.05570s
+2024-04-18 18:31:36,074 - INFO - Cache hit for item_id 238353. Response time: 0.00022s
+2024-04-18 18:31:36,133 - INFO - Cache miss for item_id 14762. Data fetched from DB. Response time: 0.05844s
+2024-04-18 18:31:36,135 - INFO - Cache hit for item_id 292838. Response time: 0.00009s
+2024-04-18 18:31:36,206 - INFO - Cache miss for item_id 296512. Data fetched from DB. Response time: 0.07046s
+2024-04-18 18:31:36,212 - INFO - Cache hit for item_id 250030. Response time: 0.00158s
+2024-04-18 18:31:36,218 - INFO - Cache hit for item_id 4494. Response time: 0.00231s
+2024-04-18 18:31:36,295 - INFO - Cache miss for item_id 252971. Data fetched from DB. Response time: 0.07489s
+2024-04-18 18:31:36,359 - INFO - Cache miss for item_id 223194. Data fetched from DB. Response time: 0.06070s
+2024-04-18 18:31:36,364 - INFO - Cache hit for item_id 166133. Response time: 0.00057s
+2024-04-18 18:31:36,435 - INFO - Cache miss for item_id 28572. Data fetched from DB. Response time: 0.06791s
+2024-04-18 18:31:36,552 - INFO - Cache miss for item_id 216463. Data fetched from DB. Response time: 0.10126s
+2024-04-18 18:31:36,556 - INFO - Cache hit for item_id 73317. Response time: 0.00118s
+2024-04-18 18:31:36,609 - INFO - Cache miss for item_id 236677. Data fetched from DB. Response time: 0.05188s
+2024-04-18 18:31:36,691 - INFO - Cache miss for item_id 131314. Data fetched from DB. Response time: 0.07967s
+2024-04-18 18:31:36,694 - INFO - Cache hit for item_id 155266. Response time: 0.00038s
+2024-04-18 18:31:36,703 - INFO - Cache hit for item_id 155266. Response time: 0.00057s
+2024-04-18 18:31:36,751 - INFO - Cache miss for item_id 270599. Data fetched from DB. Response time: 0.04354s
+2024-04-18 18:31:36,755 - INFO - Cache hit for item_id 234074. Response time: 0.00046s
+2024-04-18 18:31:36,759 - INFO - Cache hit for item_id 204930. Response time: 0.00282s
+2024-04-18 18:31:36,763 - INFO - Cache hit for item_id 72200. Response time: 0.00061s
+2024-04-18 18:31:36,830 - INFO - Cache miss for item_id 168251. Data fetched from DB. Response time: 0.06609s
+2024-04-18 18:31:36,834 - INFO - Cache hit for item_id 307251. Response time: 0.00059s
+2024-04-18 18:31:36,890 - INFO - Cache miss for item_id 297189. Data fetched from DB. Response time: 0.05414s
+2024-04-18 18:31:36,960 - INFO - Cache miss for item_id 40740. Data fetched from DB. Response time: 0.06329s
+2024-04-18 18:31:37,022 - INFO - Cache miss for item_id 50450. Data fetched from DB. Response time: 0.05892s
+2024-04-18 18:31:37,027 - INFO - Cache hit for item_id 268381. Response time: 0.00044s
+2024-04-18 18:31:37,112 - INFO - Cache miss for item_id 99410. Data fetched from DB. Response time: 0.08372s
+2024-04-18 18:31:37,115 - INFO - Cache hit for item_id 50450. Response time: 0.00026s
+2024-04-18 18:31:37,155 - INFO - Cache miss for item_id 34017. Data fetched from DB. Response time: 0.03620s
+2024-04-18 18:31:37,180 - INFO - Cache hit for item_id 7100. Response time: 0.00166s
+2024-04-18 18:31:37,229 - INFO - Cache miss for item_id 319366. Data fetched from DB. Response time: 0.04689s
+2024-04-18 18:31:37,234 - INFO - Cache hit for item_id 220174. Response time: 0.00264s
+2024-04-18 18:31:37,279 - INFO - Cache miss for item_id 137350. Data fetched from DB. Response time: 0.04310s
+2024-04-18 18:31:37,341 - INFO - Cache miss for item_id 302229. Data fetched from DB. Response time: 0.05986s
+2024-04-18 18:31:37,344 - INFO - Cache hit for item_id 117299. Response time: 0.00054s
+2024-04-18 18:31:37,396 - INFO - Cache miss for item_id 35203. Data fetched from DB. Response time: 0.05072s
+2024-04-18 18:31:37,463 - INFO - Cache miss for item_id 101824. Data fetched from DB. Response time: 0.06453s
+2024-04-18 18:31:37,515 - INFO - Cache miss for item_id 313137. Data fetched from DB. Response time: 0.04973s
+2024-04-18 18:31:37,564 - INFO - Cache miss for item_id 224912. Data fetched from DB. Response time: 0.04584s
+2024-04-18 18:31:37,565 - INFO - Cache hit for item_id 134920. Response time: 0.00056s
+2024-04-18 18:31:37,639 - INFO - Cache miss for item_id 73675. Data fetched from DB. Response time: 0.07031s
+2024-04-18 18:31:37,699 - INFO - Cache miss for item_id 98865. Data fetched from DB. Response time: 0.05508s
+2024-04-18 18:31:37,738 - INFO - Cache hit for item_id 98865. Response time: 0.00041s
+2024-04-18 18:31:37,740 - INFO - Cache hit for item_id 98865. Response time: 0.00017s
+2024-04-18 18:31:37,742 - INFO - Cache hit for item_id 248204. Response time: 0.00016s
+2024-04-18 18:31:37,812 - INFO - Cache miss for item_id 109040. Data fetched from DB. Response time: 0.06784s
+2024-04-18 18:31:37,815 - INFO - Cache hit for item_id 87751. Response time: 0.00012s
+2024-04-18 18:31:37,817 - INFO - Cache hit for item_id 39048. Response time: 0.00023s
+2024-04-18 18:31:37,818 - INFO - Cache hit for item_id 217164. Response time: 0.00016s
+2024-04-18 18:31:37,903 - INFO - Cache miss for item_id 110072. Data fetched from DB. Response time: 0.08227s
+2024-04-18 18:31:37,982 - INFO - Cache miss for item_id 193193. Data fetched from DB. Response time: 0.07768s
+2024-04-18 18:31:38,063 - INFO - Cache miss for item_id 175162. Data fetched from DB. Response time: 0.07987s
+2024-04-18 18:31:38,065 - INFO - Cache hit for item_id 86342. Response time: 0.00011s
+2024-04-18 18:31:38,138 - INFO - Cache miss for item_id 305601. Data fetched from DB. Response time: 0.07189s
+2024-04-18 18:31:38,142 - INFO - Cache hit for item_id 276904. Response time: 0.00021s
+2024-04-18 18:31:38,219 - INFO - Cache miss for item_id 29023. Data fetched from DB. Response time: 0.07396s
+2024-04-18 18:31:38,287 - INFO - Cache miss for item_id 55658. Data fetched from DB. Response time: 0.06465s
+2024-04-18 18:31:38,368 - INFO - Cache miss for item_id 12252. Data fetched from DB. Response time: 0.07734s
+2024-04-18 18:31:38,442 - INFO - Cache miss for item_id 204715. Data fetched from DB. Response time: 0.07244s
+2024-04-18 18:31:38,531 - INFO - Cache miss for item_id 315237. Data fetched from DB. Response time: 0.08738s
+2024-04-18 18:31:38,610 - INFO - Cache miss for item_id 44244. Data fetched from DB. Response time: 0.07748s
+2024-04-18 18:31:38,708 - INFO - Cache miss for item_id 273205. Data fetched from DB. Response time: 0.09606s
+2024-04-18 18:31:38,778 - INFO - Cache miss for item_id 296510. Data fetched from DB. Response time: 0.06725s
+2024-04-18 18:31:38,781 - INFO - Cache hit for item_id 257663. Response time: 0.00074s
+2024-04-18 18:31:38,783 - INFO - Cache hit for item_id 218525. Response time: 0.00042s
+2024-04-18 18:31:38,785 - INFO - Cache hit for item_id 844. Response time: 0.00012s
+2024-04-18 18:31:38,809 - INFO - Cache hit for item_id 47910. Response time: 0.00579s
+2024-04-18 18:31:38,817 - INFO - Cache hit for item_id 86823. Response time: 0.00171s
+2024-04-18 18:31:38,868 - INFO - Cache miss for item_id 79142. Data fetched from DB. Response time: 0.04926s
+2024-04-18 18:31:38,873 - INFO - Cache hit for item_id 318150. Response time: 0.00043s
+2024-04-18 18:31:38,933 - INFO - Cache miss for item_id 185522. Data fetched from DB. Response time: 0.05688s
+2024-04-18 18:31:38,998 - INFO - Cache miss for item_id 80663. Data fetched from DB. Response time: 0.06312s
+2024-04-18 18:31:39,103 - INFO - Cache miss for item_id 294458. Data fetched from DB. Response time: 0.09960s
+2024-04-18 18:31:39,213 - INFO - Cache miss for item_id 153868. Data fetched from DB. Response time: 0.10667s
+2024-04-18 18:31:39,215 - INFO - Cache hit for item_id 298345. Response time: 0.00092s
+2024-04-18 18:31:39,314 - INFO - Cache miss for item_id 30899. Data fetched from DB. Response time: 0.09460s
+2024-04-18 18:31:39,319 - INFO - Cache hit for item_id 230429. Response time: 0.00254s
+2024-04-18 18:31:39,323 - INFO - Cache hit for item_id 185522. Response time: 0.00054s
+2024-04-18 18:31:39,387 - INFO - Cache miss for item_id 296009. Data fetched from DB. Response time: 0.05901s
+2024-04-18 18:31:39,391 - INFO - Cache hit for item_id 13410. Response time: 0.00045s
+2024-04-18 18:31:39,449 - INFO - Cache miss for item_id 141553. Data fetched from DB. Response time: 0.05327s
+2024-04-18 18:31:39,528 - INFO - Cache miss for item_id 141781. Data fetched from DB. Response time: 0.07320s
+2024-04-18 18:31:39,531 - INFO - Cache hit for item_id 195784. Response time: 0.00065s
+2024-04-18 18:31:39,589 - INFO - Cache miss for item_id 21464. Data fetched from DB. Response time: 0.05532s
+2024-04-18 18:31:39,593 - INFO - Cache hit for item_id 162858. Response time: 0.00201s
+2024-04-18 18:31:39,659 - INFO - Cache miss for item_id 135655. Data fetched from DB. Response time: 0.06420s
+2024-04-18 18:31:39,662 - INFO - Cache hit for item_id 204003. Response time: 0.00060s
+2024-04-18 18:31:39,664 - INFO - Cache hit for item_id 23606. Response time: 0.00047s
+2024-04-18 18:31:39,718 - INFO - Cache miss for item_id 49821. Data fetched from DB. Response time: 0.05227s
+2024-04-18 18:31:39,766 - INFO - Cache miss for item_id 14148. Data fetched from DB. Response time: 0.04528s
+2024-04-18 18:31:39,772 - INFO - Cache hit for item_id 319366. Response time: 0.00176s
+2024-04-18 18:31:39,827 - INFO - Cache miss for item_id 63990. Data fetched from DB. Response time: 0.04321s
+2024-04-18 18:31:39,908 - INFO - Cache miss for item_id 1950. Data fetched from DB. Response time: 0.07713s
+2024-04-18 18:31:39,910 - INFO - Cache hit for item_id 40301. Response time: 0.00047s
+2024-04-18 18:31:39,964 - INFO - Cache miss for item_id 180349. Data fetched from DB. Response time: 0.05293s
+2024-04-18 18:31:40,059 - INFO - Cache miss for item_id 107050. Data fetched from DB. Response time: 0.09226s
+2024-04-18 18:31:40,128 - INFO - Cache miss for item_id 216084. Data fetched from DB. Response time: 0.06518s
+2024-04-18 18:31:40,131 - INFO - Cache hit for item_id 124812. Response time: 0.00057s
+2024-04-18 18:31:40,134 - INFO - Cache hit for item_id 258438. Response time: 0.00150s
+2024-04-18 18:31:40,137 - INFO - Cache hit for item_id 63990. Response time: 0.00126s
+2024-04-18 18:31:40,180 - INFO - Cache miss for item_id 211960. Data fetched from DB. Response time: 0.04054s
+2024-04-18 18:31:40,186 - INFO - Cache hit for item_id 14919. Response time: 0.00182s
+2024-04-18 18:31:40,187 - INFO - Cache hit for item_id 109860. Response time: 0.00026s
+2024-04-18 18:31:40,280 - INFO - Cache miss for item_id 259911. Data fetched from DB. Response time: 0.06494s
+2024-04-18 18:31:40,295 - INFO - Cache hit for item_id 8977. Response time: 0.00053s
+2024-04-18 18:31:40,339 - INFO - Cache miss for item_id 118532. Data fetched from DB. Response time: 0.04297s
+2024-04-18 18:31:40,382 - INFO - Cache miss for item_id 40113. Data fetched from DB. Response time: 0.04156s
+2024-04-18 18:31:40,448 - INFO - Cache miss for item_id 130332. Data fetched from DB. Response time: 0.06158s
+2024-04-18 18:31:40,525 - INFO - Cache miss for item_id 142833. Data fetched from DB. Response time: 0.06787s
+2024-04-18 18:31:40,598 - INFO - Cache miss for item_id 215499. Data fetched from DB. Response time: 0.07037s
+2024-04-18 18:31:40,599 - INFO - Cache hit for item_id 168279. Response time: 0.00018s
+2024-04-18 18:31:40,600 - INFO - Cache hit for item_id 68972. Response time: 0.00014s
+2024-04-18 18:31:40,601 - INFO - Cache hit for item_id 259456. Response time: 0.00012s
+2024-04-18 18:31:40,604 - INFO - Cache hit for item_id 62587. Response time: 0.00024s
+2024-04-18 18:31:40,605 - INFO - Cache hit for item_id 112631. Response time: 0.00009s
+2024-04-18 18:31:40,670 - INFO - Cache miss for item_id 193066. Data fetched from DB. Response time: 0.06433s
+2024-04-18 18:31:40,726 - INFO - Cache miss for item_id 204401. Data fetched from DB. Response time: 0.05461s
+2024-04-18 18:31:40,789 - INFO - Cache miss for item_id 64656. Data fetched from DB. Response time: 0.06098s
+2024-04-18 18:31:40,792 - INFO - Cache hit for item_id 314532. Response time: 0.00110s
+2024-04-18 18:31:40,855 - INFO - Cache miss for item_id 156843. Data fetched from DB. Response time: 0.06169s
+2024-04-18 18:31:40,920 - INFO - Cache miss for item_id 177374. Data fetched from DB. Response time: 0.06402s
+2024-04-18 18:31:40,980 - INFO - Cache miss for item_id 116715. Data fetched from DB. Response time: 0.05654s
+2024-04-18 18:31:41,057 - INFO - Cache miss for item_id 213078. Data fetched from DB. Response time: 0.07333s
+2024-04-18 18:31:41,063 - INFO - Cache hit for item_id 67656. Response time: 0.00105s
+2024-04-18 18:31:41,065 - INFO - Cache hit for item_id 188290. Response time: 0.00098s
+2024-04-18 18:31:41,131 - INFO - Cache miss for item_id 114600. Data fetched from DB. Response time: 0.06294s
+2024-04-18 18:31:41,188 - INFO - Cache miss for item_id 22720. Data fetched from DB. Response time: 0.05597s
+2024-04-18 18:31:41,191 - INFO - Cache hit for item_id 36818. Response time: 0.00055s
+2024-04-18 18:31:41,194 - INFO - Cache hit for item_id 206337. Response time: 0.00159s
+2024-04-18 18:31:41,196 - INFO - Cache hit for item_id 136960. Response time: 0.00069s
+2024-04-18 18:31:41,199 - INFO - Cache hit for item_id 97218. Response time: 0.00053s
+2024-04-18 18:31:41,207 - INFO - Cache hit for item_id 178038. Response time: 0.00308s
+2024-04-18 18:31:41,284 - INFO - Cache miss for item_id 129658. Data fetched from DB. Response time: 0.07442s
+2024-04-18 18:31:41,291 - INFO - Cache hit for item_id 202310. Response time: 0.00173s
+2024-04-18 18:31:41,295 - INFO - Cache hit for item_id 51447. Response time: 0.00079s
+2024-04-18 18:31:41,362 - INFO - Cache miss for item_id 197700. Data fetched from DB. Response time: 0.06243s
+2024-04-18 18:31:41,410 - INFO - Cache miss for item_id 252149. Data fetched from DB. Response time: 0.04640s
+2024-04-18 18:31:41,472 - INFO - Cache miss for item_id 140737. Data fetched from DB. Response time: 0.06031s
+2024-04-18 18:31:41,474 - INFO - Cache hit for item_id 140737. Response time: 0.00023s
+2024-04-18 18:31:41,515 - INFO - Cache miss for item_id 294406. Data fetched from DB. Response time: 0.04016s
+2024-04-18 18:31:41,520 - INFO - Cache hit for item_id 309371. Response time: 0.00062s
+2024-04-18 18:31:41,608 - INFO - Cache miss for item_id 304031. Data fetched from DB. Response time: 0.08749s
+2024-04-18 18:31:41,610 - INFO - Cache hit for item_id 95921. Response time: 0.00015s
+2024-04-18 18:31:41,611 - INFO - Cache hit for item_id 150674. Response time: 0.00011s
+2024-04-18 18:31:41,676 - INFO - Cache miss for item_id 13613. Data fetched from DB. Response time: 0.06087s
+2024-04-18 18:31:41,679 - INFO - Cache hit for item_id 212046. Response time: 0.00039s
+2024-04-18 18:31:41,682 - INFO - Cache hit for item_id 138810. Response time: 0.00117s
+2024-04-18 18:31:41,744 - INFO - Cache miss for item_id 140212. Data fetched from DB. Response time: 0.05964s
+2024-04-18 18:31:41,799 - INFO - Cache miss for item_id 290375. Data fetched from DB. Response time: 0.05245s
+2024-04-18 18:31:41,803 - INFO - Cache hit for item_id 227675. Response time: 0.00119s
+2024-04-18 18:31:41,880 - INFO - Cache miss for item_id 268163. Data fetched from DB. Response time: 0.06910s
+2024-04-18 18:31:41,934 - INFO - Cache miss for item_id 268737. Data fetched from DB. Response time: 0.05111s
+2024-04-18 18:31:41,936 - INFO - Cache hit for item_id 176144. Response time: 0.00018s
+2024-04-18 18:31:41,982 - INFO - Cache miss for item_id 22626. Data fetched from DB. Response time: 0.04308s
+2024-04-18 18:31:41,984 - INFO - Cache hit for item_id 129751. Response time: 0.00078s
+2024-04-18 18:31:42,058 - INFO - Cache miss for item_id 195992. Data fetched from DB. Response time: 0.07220s
+2024-04-18 18:31:42,129 - INFO - Cache miss for item_id 242589. Data fetched from DB. Response time: 0.06797s
+2024-04-18 18:31:42,204 - INFO - Cache miss for item_id 105263. Data fetched from DB. Response time: 0.07242s
+2024-04-18 18:31:42,207 - INFO - Cache hit for item_id 147382. Response time: 0.00067s
+2024-04-18 18:31:42,283 - INFO - Cache miss for item_id 144663. Data fetched from DB. Response time: 0.07347s
+2024-04-18 18:31:42,341 - INFO - Cache miss for item_id 92001. Data fetched from DB. Response time: 0.05545s
+2024-04-18 18:31:42,343 - INFO - Cache hit for item_id 144663. Response time: 0.00033s
+2024-04-18 18:31:42,348 - INFO - Cache hit for item_id 143405. Response time: 0.00170s
+2024-04-18 18:31:42,416 - INFO - Cache miss for item_id 182910. Data fetched from DB. Response time: 0.06622s
+2024-04-18 18:31:42,417 - INFO - Cache hit for item_id 182267. Response time: 0.00030s
+2024-04-18 18:31:42,418 - INFO - Cache hit for item_id 115911. Response time: 0.00031s
+2024-04-18 18:31:42,424 - INFO - Cache hit for item_id 232199. Response time: 0.00335s
+2024-04-18 18:31:42,487 - INFO - Cache miss for item_id 226429. Data fetched from DB. Response time: 0.04981s
+2024-04-18 18:31:42,531 - INFO - Cache miss for item_id 87178. Data fetched from DB. Response time: 0.04020s
+2024-04-18 18:31:42,594 - INFO - Cache miss for item_id 223399. Data fetched from DB. Response time: 0.05544s
+2024-04-18 18:31:42,596 - INFO - Cache hit for item_id 230861. Response time: 0.00044s
+2024-04-18 18:31:42,658 - INFO - Cache miss for item_id 238049. Data fetched from DB. Response time: 0.05950s
+2024-04-18 18:31:42,660 - INFO - Cache hit for item_id 82401. Response time: 0.00018s
+2024-04-18 18:31:42,717 - INFO - Cache miss for item_id 244154. Data fetched from DB. Response time: 0.05505s
+2024-04-18 18:31:42,840 - INFO - Cache miss for item_id 131878. Data fetched from DB. Response time: 0.12064s
+2024-04-18 18:31:42,844 - INFO - Cache hit for item_id 166949. Response time: 0.00083s
+2024-04-18 18:31:42,890 - INFO - Cache miss for item_id 196658. Data fetched from DB. Response time: 0.04534s
+2024-04-18 18:31:42,938 - INFO - Cache miss for item_id 69550. Data fetched from DB. Response time: 0.04546s
+2024-04-18 18:31:42,993 - INFO - Cache miss for item_id 127283. Data fetched from DB. Response time: 0.04944s
+2024-04-18 18:31:43,001 - INFO - Cache hit for item_id 221705. Response time: 0.00072s
+2024-04-18 18:31:43,004 - INFO - Cache hit for item_id 268888. Response time: 0.00051s
+2024-04-18 18:31:43,053 - INFO - Cache miss for item_id 144182. Data fetched from DB. Response time: 0.04696s
+2024-04-18 18:31:43,057 - INFO - Cache hit for item_id 51968. Response time: 0.00082s
+2024-04-18 18:31:43,059 - INFO - Cache hit for item_id 310128. Response time: 0.00015s
+2024-04-18 18:31:43,060 - INFO - Cache hit for item_id 228424. Response time: 0.00060s
+2024-04-18 18:31:43,114 - INFO - Cache miss for item_id 39795. Data fetched from DB. Response time: 0.05291s
+2024-04-18 18:31:43,117 - INFO - Cache hit for item_id 249201. Response time: 0.00130s
+2024-04-18 18:31:43,183 - INFO - Cache miss for item_id 102682. Data fetched from DB. Response time: 0.06291s
+2024-04-18 18:31:43,278 - INFO - Cache miss for item_id 110940. Data fetched from DB. Response time: 0.08440s
+2024-04-18 18:31:43,334 - INFO - Cache miss for item_id 289963. Data fetched from DB. Response time: 0.05178s
+2024-04-18 18:31:43,399 - INFO - Cache miss for item_id 23047. Data fetched from DB. Response time: 0.06320s
+2024-04-18 18:31:43,480 - INFO - Cache miss for item_id 72686. Data fetched from DB. Response time: 0.07903s
+2024-04-18 18:31:43,546 - INFO - Cache miss for item_id 210237. Data fetched from DB. Response time: 0.06443s
+2024-04-18 18:31:43,615 - INFO - Cache miss for item_id 103845. Data fetched from DB. Response time: 0.06604s
+2024-04-18 18:31:43,617 - INFO - Cache hit for item_id 161528. Response time: 0.00028s
+2024-04-18 18:31:43,674 - INFO - Cache miss for item_id 235443. Data fetched from DB. Response time: 0.05425s
+2024-04-18 18:31:43,715 - INFO - Cache miss for item_id 94575. Data fetched from DB. Response time: 0.03798s
+2024-04-18 18:31:43,774 - INFO - Cache miss for item_id 71002. Data fetched from DB. Response time: 0.05312s
+2024-04-18 18:31:43,831 - INFO - Cache miss for item_id 70732. Data fetched from DB. Response time: 0.05558s
+2024-04-18 18:31:43,883 - INFO - Cache miss for item_id 198278. Data fetched from DB. Response time: 0.05007s
+2024-04-18 18:31:43,947 - INFO - Cache miss for item_id 57186. Data fetched from DB. Response time: 0.05920s
+2024-04-18 18:31:43,994 - INFO - Cache miss for item_id 184859. Data fetched from DB. Response time: 0.04554s
+2024-04-18 18:31:44,045 - INFO - Cache miss for item_id 165391. Data fetched from DB. Response time: 0.05021s
+2024-04-18 18:31:44,051 - INFO - Cache hit for item_id 175208. Response time: 0.00121s
+2024-04-18 18:31:44,054 - INFO - Cache hit for item_id 24357. Response time: 0.00064s
+2024-04-18 18:31:44,098 - INFO - Cache miss for item_id 176298. Data fetched from DB. Response time: 0.04243s
+2024-04-18 18:31:44,122 - INFO - Cache hit for item_id 296089. Response time: 0.00432s
+2024-04-18 18:31:44,172 - INFO - Cache miss for item_id 130600. Data fetched from DB. Response time: 0.04673s
+2024-04-18 18:31:44,232 - INFO - Cache miss for item_id 229996. Data fetched from DB. Response time: 0.05637s
+2024-04-18 18:31:44,311 - INFO - Cache miss for item_id 61032. Data fetched from DB. Response time: 0.04847s
+2024-04-18 18:31:44,316 - INFO - Cache hit for item_id 110277. Response time: 0.00059s
+2024-04-18 18:31:44,376 - INFO - Cache miss for item_id 198921. Data fetched from DB. Response time: 0.05748s
+2024-04-18 18:31:44,437 - INFO - Cache miss for item_id 309318. Data fetched from DB. Response time: 0.05811s
+2024-04-18 18:31:44,495 - INFO - Cache miss for item_id 70072. Data fetched from DB. Response time: 0.05656s
+2024-04-18 18:31:44,497 - INFO - Cache hit for item_id 228932. Response time: 0.00047s
+2024-04-18 18:31:44,568 - INFO - Cache miss for item_id 318968. Data fetched from DB. Response time: 0.06800s
+2024-04-18 18:31:44,619 - INFO - Cache miss for item_id 5831. Data fetched from DB. Response time: 0.04752s
+2024-04-18 18:31:44,695 - INFO - Cache miss for item_id 307371. Data fetched from DB. Response time: 0.07219s
+2024-04-18 18:31:44,699 - INFO - Cache hit for item_id 242653. Response time: 0.00044s
+2024-04-18 18:31:44,700 - INFO - Cache hit for item_id 171635. Response time: 0.00018s
+2024-04-18 18:31:44,706 - INFO - Cache hit for item_id 160544. Response time: 0.00019s
+2024-04-18 18:31:44,762 - INFO - Cache miss for item_id 123502. Data fetched from DB. Response time: 0.05140s
+2024-04-18 18:31:44,768 - INFO - Cache hit for item_id 265706. Response time: 0.00020s
+2024-04-18 18:31:44,825 - INFO - Cache miss for item_id 41856. Data fetched from DB. Response time: 0.05190s
+2024-04-18 18:31:44,828 - INFO - Cache hit for item_id 144663. Response time: 0.00076s
+2024-04-18 18:31:44,833 - INFO - Cache hit for item_id 17560. Response time: 0.00040s
+2024-04-18 18:31:44,835 - INFO - Cache hit for item_id 106068. Response time: 0.00062s
+2024-04-18 18:31:44,915 - INFO - Cache miss for item_id 264422. Data fetched from DB. Response time: 0.07149s
+2024-04-18 18:31:44,919 - INFO - Cache hit for item_id 165214. Response time: 0.00078s
+2024-04-18 18:31:44,926 - INFO - Cache hit for item_id 245180. Response time: 0.00102s
+2024-04-18 18:31:44,992 - INFO - Cache miss for item_id 160690. Data fetched from DB. Response time: 0.06404s
+2024-04-18 18:31:45,037 - INFO - Cache miss for item_id 127542. Data fetched from DB. Response time: 0.04253s
+2024-04-18 18:31:45,039 - INFO - Cache hit for item_id 245497. Response time: 0.00014s
+2024-04-18 18:31:45,091 - INFO - Cache miss for item_id 105407. Data fetched from DB. Response time: 0.04837s
+2024-04-18 18:31:45,093 - INFO - Cache hit for item_id 245180. Response time: 0.00036s
+2024-04-18 18:31:45,145 - INFO - Cache miss for item_id 36602. Data fetched from DB. Response time: 0.05130s
+2024-04-18 18:31:45,200 - INFO - Cache miss for item_id 163266. Data fetched from DB. Response time: 0.05342s
+2024-04-18 18:31:45,259 - INFO - Cache miss for item_id 169603. Data fetched from DB. Response time: 0.05734s
+2024-04-18 18:31:45,312 - INFO - Cache miss for item_id 212309. Data fetched from DB. Response time: 0.04819s
+2024-04-18 18:31:45,364 - INFO - Cache miss for item_id 129084. Data fetched from DB. Response time: 0.04954s
+2024-04-18 18:31:45,368 - INFO - Cache hit for item_id 178653. Response time: 0.00044s
+2024-04-18 18:31:45,433 - INFO - Cache miss for item_id 321567. Data fetched from DB. Response time: 0.06233s
+2024-04-18 18:31:45,487 - INFO - Cache miss for item_id 250608. Data fetched from DB. Response time: 0.05175s
+2024-04-18 18:31:45,536 - INFO - Cache miss for item_id 250344. Data fetched from DB. Response time: 0.04725s
+2024-04-18 18:31:45,540 - INFO - Cache hit for item_id 201925. Response time: 0.00018s
+2024-04-18 18:31:45,594 - INFO - Cache miss for item_id 206910. Data fetched from DB. Response time: 0.05043s
+2024-04-18 18:31:45,650 - INFO - Cache miss for item_id 140812. Data fetched from DB. Response time: 0.05385s
+2024-04-18 18:31:45,652 - INFO - Cache hit for item_id 144182. Response time: 0.00038s
+2024-04-18 18:31:45,704 - INFO - Cache miss for item_id 69189. Data fetched from DB. Response time: 0.04770s
+2024-04-18 18:31:45,748 - INFO - Cache miss for item_id 124211. Data fetched from DB. Response time: 0.03879s
+2024-04-18 18:31:45,810 - INFO - Cache miss for item_id 219071. Data fetched from DB. Response time: 0.05873s
+2024-04-18 18:31:45,853 - INFO - Cache miss for item_id 177507. Data fetched from DB. Response time: 0.04175s
+2024-04-18 18:31:45,859 - INFO - Cache hit for item_id 61675. Response time: 0.00068s
+2024-04-18 18:31:45,862 - INFO - Cache hit for item_id 43976. Response time: 0.00184s
+2024-04-18 18:31:45,899 - INFO - Cache miss for item_id 137532. Data fetched from DB. Response time: 0.03429s
+2024-04-18 18:31:45,985 - INFO - Cache miss for item_id 320069. Data fetched from DB. Response time: 0.06954s
+2024-04-18 18:31:45,992 - INFO - Cache hit for item_id 39223. Response time: 0.00027s
+2024-04-18 18:31:46,034 - INFO - Cache miss for item_id 271366. Data fetched from DB. Response time: 0.03965s
+2024-04-18 18:31:46,082 - INFO - Cache miss for item_id 275672. Data fetched from DB. Response time: 0.04591s
+2024-04-18 18:31:46,095 - INFO - Cache hit for item_id 117646. Response time: 0.00044s
+2024-04-18 18:31:46,098 - INFO - Cache hit for item_id 97332. Response time: 0.00047s
+2024-04-18 18:31:46,171 - INFO - Cache miss for item_id 279826. Data fetched from DB. Response time: 0.06313s
+2024-04-18 18:31:46,236 - INFO - Cache miss for item_id 89505. Data fetched from DB. Response time: 0.06157s
+2024-04-18 18:31:46,298 - INFO - Cache miss for item_id 288578. Data fetched from DB. Response time: 0.04953s
+2024-04-18 18:31:46,300 - INFO - Cache hit for item_id 277434. Response time: 0.00039s
+2024-04-18 18:31:46,301 - INFO - Cache hit for item_id 192289. Response time: 0.00052s
+2024-04-18 18:31:46,339 - INFO - Cache miss for item_id 212502. Data fetched from DB. Response time: 0.03626s
+2024-04-18 18:31:46,389 - INFO - Cache miss for item_id 290054. Data fetched from DB. Response time: 0.04821s
+2024-04-18 18:31:46,450 - INFO - Cache miss for item_id 46373. Data fetched from DB. Response time: 0.05757s
+2024-04-18 18:31:46,452 - INFO - Cache hit for item_id 11263. Response time: 0.00010s
+2024-04-18 18:31:46,452 - INFO - Cache hit for item_id 54934. Response time: 0.00008s
+2024-04-18 18:31:46,504 - INFO - Cache miss for item_id 138543. Data fetched from DB. Response time: 0.05038s
+2024-04-18 18:31:46,505 - INFO - Cache hit for item_id 41271. Response time: 0.00010s
+2024-04-18 18:31:46,511 - INFO - Cache hit for item_id 321216. Response time: 0.00056s
+2024-04-18 18:31:46,514 - INFO - Cache hit for item_id 228489. Response time: 0.00018s
+2024-04-18 18:31:46,579 - INFO - Cache miss for item_id 79494. Data fetched from DB. Response time: 0.06388s
+2024-04-18 18:31:46,585 - INFO - Cache hit for item_id 175948. Response time: 0.00165s
+2024-04-18 18:31:46,656 - INFO - Cache miss for item_id 100755. Data fetched from DB. Response time: 0.06377s
+2024-04-18 18:31:46,706 - INFO - Cache miss for item_id 133138. Data fetched from DB. Response time: 0.04569s
+2024-04-18 18:31:46,709 - INFO - Cache hit for item_id 100755. Response time: 0.00027s
+2024-04-18 18:31:46,712 - INFO - Cache hit for item_id 301420. Response time: 0.00036s
+2024-04-18 18:31:46,779 - INFO - Cache miss for item_id 47685. Data fetched from DB. Response time: 0.06183s
+2024-04-18 18:31:46,843 - INFO - Cache miss for item_id 237703. Data fetched from DB. Response time: 0.05793s
+2024-04-18 18:31:46,897 - INFO - Cache miss for item_id 221205. Data fetched from DB. Response time: 0.05212s
+2024-04-18 18:31:46,955 - INFO - Cache miss for item_id 25105. Data fetched from DB. Response time: 0.05618s
+2024-04-18 18:31:46,961 - INFO - Cache hit for item_id 314740. Response time: 0.00041s
+2024-04-18 18:31:46,963 - INFO - Cache hit for item_id 296517. Response time: 0.00028s
+2024-04-18 18:31:46,966 - INFO - Cache hit for item_id 200737. Response time: 0.00036s
+2024-04-18 18:31:47,023 - INFO - Cache miss for item_id 312085. Data fetched from DB. Response time: 0.05507s
+2024-04-18 18:31:47,074 - INFO - Cache miss for item_id 42518. Data fetched from DB. Response time: 0.04907s
+2024-04-18 18:31:47,147 - INFO - Cache miss for item_id 12504. Data fetched from DB. Response time: 0.07168s
+2024-04-18 18:31:47,159 - INFO - Cache hit for item_id 152914. Response time: 0.00139s
+2024-04-18 18:31:47,163 - INFO - Cache hit for item_id 291453. Response time: 0.00051s
+2024-04-18 18:31:47,167 - INFO - Cache hit for item_id 230045. Response time: 0.00073s
+2024-04-18 18:31:47,170 - INFO - Cache hit for item_id 196422. Response time: 0.00070s
+2024-04-18 18:31:47,193 - INFO - Cache hit for item_id 162216. Response time: 0.01756s
+2024-04-18 18:31:47,196 - INFO - Cache hit for item_id 100609. Response time: 0.00046s
+2024-04-18 18:31:47,203 - INFO - Cache hit for item_id 29763. Response time: 0.00085s
+2024-04-18 18:31:47,266 - INFO - Cache miss for item_id 257995. Data fetched from DB. Response time: 0.04718s
+2024-04-18 18:31:47,270 - INFO - Cache hit for item_id 72803. Response time: 0.00195s
+2024-04-18 18:31:47,325 - INFO - Cache miss for item_id 81760. Data fetched from DB. Response time: 0.05330s
+2024-04-18 18:31:47,364 - INFO - Cache miss for item_id 108033. Data fetched from DB. Response time: 0.03700s
+2024-04-18 18:31:47,428 - INFO - Cache miss for item_id 72178. Data fetched from DB. Response time: 0.06101s
+2024-04-18 18:31:47,437 - INFO - Cache hit for item_id 274866. Response time: 0.00049s
+2024-04-18 18:31:47,442 - INFO - Cache hit for item_id 166022. Response time: 0.00204s
+2024-04-18 18:31:47,444 - INFO - Cache hit for item_id 7154. Response time: 0.00039s
+2024-04-18 18:31:47,448 - INFO - Cache hit for item_id 70798. Response time: 0.00031s
+2024-04-18 18:31:47,492 - INFO - Cache miss for item_id 288803. Data fetched from DB. Response time: 0.04239s
+2024-04-18 18:31:47,495 - INFO - Cache hit for item_id 106900. Response time: 0.00049s
+2024-04-18 18:31:47,498 - INFO - Cache hit for item_id 206543. Response time: 0.00051s
+2024-04-18 18:31:47,502 - INFO - Cache hit for item_id 32812. Response time: 0.00136s
+2024-04-18 18:31:47,504 - INFO - Cache hit for item_id 285078. Response time: 0.00078s
+2024-04-18 18:31:47,566 - INFO - Cache miss for item_id 83964. Data fetched from DB. Response time: 0.06048s
+2024-04-18 18:31:47,615 - INFO - Cache miss for item_id 116233. Data fetched from DB. Response time: 0.04433s
+2024-04-18 18:31:47,665 - INFO - Cache miss for item_id 152501. Data fetched from DB. Response time: 0.04779s
+2024-04-18 18:31:47,715 - INFO - Cache miss for item_id 198580. Data fetched from DB. Response time: 0.04809s
+2024-04-18 18:31:47,761 - INFO - Cache miss for item_id 210492. Data fetched from DB. Response time: 0.04377s
+2024-04-18 18:31:47,764 - INFO - Cache hit for item_id 165350. Response time: 0.00077s
+2024-04-18 18:31:47,806 - INFO - Cache miss for item_id 78973. Data fetched from DB. Response time: 0.04000s
+2024-04-18 18:31:47,808 - INFO - Cache hit for item_id 231698. Response time: 0.00011s
+2024-04-18 18:31:47,875 - INFO - Cache miss for item_id 96969. Data fetched from DB. Response time: 0.06636s
+2024-04-18 18:31:47,887 - INFO - Cache hit for item_id 162249. Response time: 0.00020s
+2024-04-18 18:31:47,889 - INFO - Cache hit for item_id 171428. Response time: 0.00012s
+2024-04-18 18:31:47,944 - INFO - Cache miss for item_id 315798. Data fetched from DB. Response time: 0.05312s
+2024-04-18 18:31:48,029 - INFO - Cache miss for item_id 221697. Data fetched from DB. Response time: 0.08183s
+2024-04-18 18:31:48,093 - INFO - Cache miss for item_id 60564. Data fetched from DB. Response time: 0.06255s
+2024-04-18 18:31:48,132 - INFO - Cache miss for item_id 144331. Data fetched from DB. Response time: 0.03658s
+2024-04-18 18:31:48,194 - INFO - Cache miss for item_id 122540. Data fetched from DB. Response time: 0.06030s
+2024-04-18 18:31:48,250 - INFO - Cache miss for item_id 94075. Data fetched from DB. Response time: 0.05397s
+2024-04-18 18:31:48,315 - INFO - Cache miss for item_id 109115. Data fetched from DB. Response time: 0.06210s
+2024-04-18 18:31:48,379 - INFO - Cache miss for item_id 168688. Data fetched from DB. Response time: 0.06302s
+2024-04-18 18:31:48,439 - INFO - Cache miss for item_id 24960. Data fetched from DB. Response time: 0.05819s
+2024-04-18 18:31:48,443 - INFO - Cache hit for item_id 434. Response time: 0.00062s
+2024-04-18 18:31:48,495 - INFO - Cache miss for item_id 255108. Data fetched from DB. Response time: 0.05017s
+2024-04-18 18:31:48,552 - INFO - Cache miss for item_id 212748. Data fetched from DB. Response time: 0.05564s
+2024-04-18 18:31:48,608 - INFO - Cache miss for item_id 155365. Data fetched from DB. Response time: 0.05108s
+2024-04-18 18:31:48,685 - INFO - Cache miss for item_id 211897. Data fetched from DB. Response time: 0.07417s
+2024-04-18 18:31:48,687 - INFO - Cache hit for item_id 175961. Response time: 0.00040s
+2024-04-18 18:31:48,755 - INFO - Cache miss for item_id 149289. Data fetched from DB. Response time: 0.05111s
+2024-04-18 18:31:48,854 - INFO - Cache miss for item_id 290501. Data fetched from DB. Response time: 0.09481s
+2024-04-18 18:31:48,903 - INFO - Cache miss for item_id 115468. Data fetched from DB. Response time: 0.04328s
+2024-04-18 18:31:48,913 - INFO - Cache hit for item_id 199820. Response time: 0.00054s
+2024-04-18 18:31:48,915 - INFO - Cache hit for item_id 137627. Response time: 0.00017s
+2024-04-18 18:31:48,980 - INFO - Cache miss for item_id 86657. Data fetched from DB. Response time: 0.06316s
+2024-04-18 18:31:49,034 - INFO - Cache miss for item_id 219807. Data fetched from DB. Response time: 0.05080s
+2024-04-18 18:31:49,035 - INFO - Cache hit for item_id 290501. Response time: 0.00011s
+2024-04-18 18:31:49,061 - INFO - Cache hit for item_id 315424. Response time: 0.01730s
+2024-04-18 18:31:49,121 - INFO - Cache miss for item_id 253280. Data fetched from DB. Response time: 0.05696s
+2024-04-18 18:31:49,170 - INFO - Cache miss for item_id 287241. Data fetched from DB. Response time: 0.04624s
+2024-04-18 18:31:49,172 - INFO - Cache hit for item_id 179249. Response time: 0.00051s
+2024-04-18 18:31:49,174 - INFO - Cache hit for item_id 255155. Response time: 0.00061s
+2024-04-18 18:31:49,234 - INFO - Cache miss for item_id 157012. Data fetched from DB. Response time: 0.05769s
+2024-04-18 18:31:49,322 - INFO - Cache miss for item_id 265554. Data fetched from DB. Response time: 0.08634s
+2024-04-18 18:31:49,386 - INFO - Cache miss for item_id 130451. Data fetched from DB. Response time: 0.05767s
+2024-04-18 18:31:49,388 - INFO - Cache hit for item_id 130451. Response time: 0.00022s
+2024-04-18 18:31:49,392 - INFO - Cache hit for item_id 130451. Response time: 0.00049s
+2024-04-18 18:31:49,454 - INFO - Cache miss for item_id 118937. Data fetched from DB. Response time: 0.06006s
+2024-04-18 18:31:49,473 - INFO - Cache hit for item_id 130451. Response time: 0.00728s
+2024-04-18 18:31:49,487 - INFO - Cache hit for item_id 130451. Response time: 0.00334s
+2024-04-18 18:31:49,490 - INFO - Cache hit for item_id 57711. Response time: 0.00048s
+2024-04-18 18:31:49,548 - INFO - Cache miss for item_id 168465. Data fetched from DB. Response time: 0.05615s
+2024-04-18 18:31:49,605 - INFO - Cache miss for item_id 61819. Data fetched from DB. Response time: 0.05448s
+2024-04-18 18:31:49,656 - INFO - Cache miss for item_id 240665. Data fetched from DB. Response time: 0.04869s
+2024-04-18 18:31:49,723 - INFO - Cache miss for item_id 26963. Data fetched from DB. Response time: 0.06312s
+2024-04-18 18:31:49,725 - INFO - Cache hit for item_id 26963. Response time: 0.00015s
+2024-04-18 18:31:49,729 - INFO - Cache hit for item_id 130451. Response time: 0.00019s
+2024-04-18 18:31:49,734 - INFO - Cache hit for item_id 94572. Response time: 0.00024s
+2024-04-18 18:31:49,784 - INFO - Cache miss for item_id 35476. Data fetched from DB. Response time: 0.04825s
+2024-04-18 18:31:49,856 - INFO - Cache miss for item_id 286218. Data fetched from DB. Response time: 0.06095s
+2024-04-18 18:31:49,859 - INFO - Cache hit for item_id 114938. Response time: 0.00045s
+2024-04-18 18:31:49,864 - INFO - Cache hit for item_id 321612. Response time: 0.00022s
+2024-04-18 18:31:49,910 - INFO - Cache miss for item_id 89977. Data fetched from DB. Response time: 0.04219s
+2024-04-18 18:31:49,964 - INFO - Cache miss for item_id 124484. Data fetched from DB. Response time: 0.05157s
+2024-04-18 18:31:49,974 - INFO - Cache hit for item_id 75579. Response time: 0.00261s
+2024-04-18 18:31:49,976 - INFO - Cache hit for item_id 146109. Response time: 0.00077s
+2024-04-18 18:31:50,017 - INFO - Cache miss for item_id 10005. Data fetched from DB. Response time: 0.04011s
+2024-04-18 18:31:50,079 - INFO - Cache miss for item_id 97691. Data fetched from DB. Response time: 0.05077s
+2024-04-18 18:31:50,125 - INFO - Cache miss for item_id 149503. Data fetched from DB. Response time: 0.04470s
+2024-04-18 18:31:50,199 - INFO - Cache miss for item_id 179630. Data fetched from DB. Response time: 0.05956s
+2024-04-18 18:31:50,245 - INFO - Cache miss for item_id 256564. Data fetched from DB. Response time: 0.04431s
+2024-04-18 18:31:50,249 - INFO - Cache hit for item_id 320103. Response time: 0.00091s
+2024-04-18 18:31:50,307 - INFO - Cache miss for item_id 88848. Data fetched from DB. Response time: 0.05418s
+2024-04-18 18:31:50,372 - INFO - Cache miss for item_id 179115. Data fetched from DB. Response time: 0.06421s
+2024-04-18 18:31:50,376 - INFO - Cache hit for item_id 188349. Response time: 0.00077s
+2024-04-18 18:31:50,429 - INFO - Cache miss for item_id 134281. Data fetched from DB. Response time: 0.04948s
+2024-04-18 18:31:50,530 - INFO - Cache miss for item_id 192670. Data fetched from DB. Response time: 0.09802s
+2024-04-18 18:31:50,578 - INFO - Cache miss for item_id 179326. Data fetched from DB. Response time: 0.04605s
+2024-04-18 18:31:50,644 - INFO - Cache miss for item_id 58803. Data fetched from DB. Response time: 0.05879s
+2024-04-18 18:31:50,699 - INFO - Cache miss for item_id 58639. Data fetched from DB. Response time: 0.05452s
+2024-04-18 18:31:50,753 - INFO - Cache miss for item_id 162391. Data fetched from DB. Response time: 0.05276s
+2024-04-18 18:31:50,755 - INFO - Cache hit for item_id 67393. Response time: 0.00036s
+2024-04-18 18:31:50,756 - INFO - Cache hit for item_id 273234. Response time: 0.00030s
+2024-04-18 18:31:50,814 - INFO - Cache miss for item_id 7523. Data fetched from DB. Response time: 0.05550s
+2024-04-18 18:31:50,875 - INFO - Cache miss for item_id 96812. Data fetched from DB. Response time: 0.05998s
+2024-04-18 18:31:50,920 - INFO - Cache miss for item_id 26967. Data fetched from DB. Response time: 0.04343s
+2024-04-18 18:31:50,973 - INFO - Cache miss for item_id 263868. Data fetched from DB. Response time: 0.05143s
+2024-04-18 18:31:50,974 - INFO - Cache hit for item_id 33868. Response time: 0.00030s
+2024-04-18 18:31:51,028 - INFO - Cache miss for item_id 199132. Data fetched from DB. Response time: 0.05264s
+2024-04-18 18:31:51,100 - INFO - Cache miss for item_id 250391. Data fetched from DB. Response time: 0.06822s
+2024-04-18 18:31:51,168 - INFO - Cache miss for item_id 182314. Data fetched from DB. Response time: 0.06654s
+2024-04-18 18:31:51,171 - INFO - Cache hit for item_id 261826. Response time: 0.00015s
+2024-04-18 18:31:51,171 - INFO - Cache hit for item_id 27119. Response time: 0.00010s
+2024-04-18 18:31:51,172 - INFO - Cache hit for item_id 86851. Response time: 0.00010s
+2024-04-18 18:31:51,214 - INFO - Cache miss for item_id 263493. Data fetched from DB. Response time: 0.04097s
+2024-04-18 18:31:51,267 - INFO - Cache miss for item_id 165877. Data fetched from DB. Response time: 0.05029s
+2024-04-18 18:31:51,270 - INFO - Cache hit for item_id 177227. Response time: 0.00042s
+2024-04-18 18:31:51,272 - INFO - Cache hit for item_id 240614. Response time: 0.00046s
+2024-04-18 18:31:51,274 - INFO - Cache hit for item_id 177227. Response time: 0.00049s
+2024-04-18 18:31:51,316 - INFO - Cache miss for item_id 281417. Data fetched from DB. Response time: 0.04154s
+2024-04-18 18:31:51,327 - INFO - Cache hit for item_id 114453. Response time: 0.00029s
+2024-04-18 18:31:51,370 - INFO - Cache miss for item_id 47198. Data fetched from DB. Response time: 0.04026s
+2024-04-18 18:31:51,430 - INFO - Cache miss for item_id 305548. Data fetched from DB. Response time: 0.05587s
+2024-04-18 18:31:51,432 - INFO - Cache hit for item_id 136808. Response time: 0.00035s
+2024-04-18 18:31:51,492 - INFO - Cache miss for item_id 260330. Data fetched from DB. Response time: 0.05814s
+2024-04-18 18:31:51,566 - INFO - Cache miss for item_id 136411. Data fetched from DB. Response time: 0.06717s
+2024-04-18 18:31:51,625 - INFO - Cache miss for item_id 214574. Data fetched from DB. Response time: 0.05760s
+2024-04-18 18:31:51,628 - INFO - Cache hit for item_id 15645. Response time: 0.00091s
+2024-04-18 18:31:51,674 - INFO - Cache miss for item_id 117184. Data fetched from DB. Response time: 0.04323s
+2024-04-18 18:31:51,719 - INFO - Cache miss for item_id 270674. Data fetched from DB. Response time: 0.04308s
+2024-04-18 18:31:51,786 - INFO - Cache miss for item_id 47033. Data fetched from DB. Response time: 0.06113s
+2024-04-18 18:31:51,788 - INFO - Cache hit for item_id 117184. Response time: 0.00030s
+2024-04-18 18:31:51,789 - INFO - Cache hit for item_id 117184. Response time: 0.00021s
+2024-04-18 18:31:51,791 - INFO - Cache hit for item_id 117184. Response time: 0.00027s
+2024-04-18 18:31:51,838 - INFO - Cache miss for item_id 31594. Data fetched from DB. Response time: 0.04650s
+2024-04-18 18:31:51,890 - INFO - Cache miss for item_id 93436. Data fetched from DB. Response time: 0.04216s
+2024-04-18 18:31:51,938 - INFO - Cache miss for item_id 235945. Data fetched from DB. Response time: 0.04508s
+2024-04-18 18:31:51,980 - INFO - Cache miss for item_id 34575. Data fetched from DB. Response time: 0.03869s
+2024-04-18 18:31:51,983 - INFO - Cache hit for item_id 83898. Response time: 0.00060s
+2024-04-18 18:31:51,987 - INFO - Cache hit for item_id 243127. Response time: 0.00111s
+2024-04-18 18:31:51,990 - INFO - Cache hit for item_id 65665. Response time: 0.00151s
+2024-04-18 18:31:52,053 - INFO - Cache miss for item_id 171859. Data fetched from DB. Response time: 0.06096s
+2024-04-18 18:31:52,055 - INFO - Cache hit for item_id 131272. Response time: 0.00136s
+2024-04-18 18:31:52,132 - INFO - Cache miss for item_id 102031. Data fetched from DB. Response time: 0.06413s
+2024-04-18 18:31:52,186 - INFO - Cache miss for item_id 129447. Data fetched from DB. Response time: 0.05066s
+2024-04-18 18:31:52,197 - INFO - Cache hit for item_id 173582. Response time: 0.00108s
+2024-04-18 18:31:52,200 - INFO - Cache hit for item_id 5237. Response time: 0.00072s
+2024-04-18 18:31:52,246 - INFO - Cache miss for item_id 196903. Data fetched from DB. Response time: 0.04532s
+2024-04-18 18:31:52,316 - INFO - Cache miss for item_id 104198. Data fetched from DB. Response time: 0.06750s
+2024-04-18 18:31:52,386 - INFO - Cache miss for item_id 168844. Data fetched from DB. Response time: 0.06769s
+2024-04-18 18:31:52,392 - INFO - Cache hit for item_id 120789. Response time: 0.00027s
+2024-04-18 18:31:52,396 - INFO - Cache hit for item_id 129751. Response time: 0.00041s
+2024-04-18 18:31:52,451 - INFO - Cache miss for item_id 46767. Data fetched from DB. Response time: 0.04706s
+2024-04-18 18:31:52,461 - INFO - Cache hit for item_id 160799. Response time: 0.00055s
+2024-04-18 18:31:52,503 - INFO - Cache miss for item_id 304313. Data fetched from DB. Response time: 0.03826s
+2024-04-18 18:31:52,567 - INFO - Cache miss for item_id 230873. Data fetched from DB. Response time: 0.05876s
+2024-04-18 18:31:52,627 - INFO - Cache miss for item_id 318450. Data fetched from DB. Response time: 0.05615s
+2024-04-18 18:31:52,629 - INFO - Cache hit for item_id 301853. Response time: 0.00014s
+2024-04-18 18:31:52,671 - INFO - Cache miss for item_id 202563. Data fetched from DB. Response time: 0.04058s
+2024-04-18 18:31:52,675 - INFO - Cache hit for item_id 109138. Response time: 0.00047s
+2024-04-18 18:31:52,734 - INFO - Cache miss for item_id 24994. Data fetched from DB. Response time: 0.05773s
+2024-04-18 18:31:52,778 - INFO - Cache miss for item_id 230483. Data fetched from DB. Response time: 0.04307s
+2024-04-18 18:31:52,827 - INFO - Cache miss for item_id 288053. Data fetched from DB. Response time: 0.04478s
+2024-04-18 18:31:52,830 - INFO - Cache hit for item_id 271169. Response time: 0.00077s
+2024-04-18 18:31:52,883 - INFO - Cache miss for item_id 127217. Data fetched from DB. Response time: 0.05146s
+2024-04-18 18:31:52,889 - INFO - Cache hit for item_id 105536. Response time: 0.00055s
+2024-04-18 18:31:52,934 - INFO - Cache miss for item_id 146241. Data fetched from DB. Response time: 0.04221s
+2024-04-18 18:31:52,972 - INFO - Cache miss for item_id 226715. Data fetched from DB. Response time: 0.03623s
+2024-04-18 18:31:53,026 - INFO - Cache miss for item_id 224010. Data fetched from DB. Response time: 0.05002s
+2024-04-18 18:31:53,046 - INFO - Cache hit for item_id 59249. Response time: 0.00619s
+2024-04-18 18:31:53,050 - INFO - Cache hit for item_id 141961. Response time: 0.00016s
+2024-04-18 18:31:53,051 - INFO - Cache hit for item_id 275226. Response time: 0.00014s
+2024-04-18 18:31:53,098 - INFO - Cache miss for item_id 83753. Data fetched from DB. Response time: 0.04597s
+2024-04-18 18:31:53,144 - INFO - Cache miss for item_id 263687. Data fetched from DB. Response time: 0.04380s
+2024-04-18 18:31:53,199 - INFO - Cache miss for item_id 245906. Data fetched from DB. Response time: 0.05208s
+2024-04-18 18:31:53,208 - INFO - Cache hit for item_id 9384. Response time: 0.00092s
+2024-04-18 18:31:53,266 - INFO - Cache miss for item_id 113659. Data fetched from DB. Response time: 0.05523s
+2024-04-18 18:31:53,329 - INFO - Cache miss for item_id 260702. Data fetched from DB. Response time: 0.06116s
+2024-04-18 18:31:53,419 - INFO - Cache miss for item_id 228692. Data fetched from DB. Response time: 0.08709s
+2024-04-18 18:31:53,429 - INFO - Cache hit for item_id 282043. Response time: 0.00017s
+2024-04-18 18:31:53,483 - INFO - Cache miss for item_id 33731. Data fetched from DB. Response time: 0.05177s
+2024-04-18 18:31:53,486 - INFO - Cache hit for item_id 226628. Response time: 0.00088s
+2024-04-18 18:31:53,542 - INFO - Cache miss for item_id 133719. Data fetched from DB. Response time: 0.05499s
+2024-04-18 18:31:53,603 - INFO - Cache miss for item_id 43284. Data fetched from DB. Response time: 0.05995s
+2024-04-18 18:31:53,606 - INFO - Cache hit for item_id 125772. Response time: 0.00034s
+2024-04-18 18:31:53,654 - INFO - Cache miss for item_id 202851. Data fetched from DB. Response time: 0.04610s
+2024-04-18 18:31:53,709 - INFO - Cache miss for item_id 265236. Data fetched from DB. Response time: 0.05030s
+2024-04-18 18:31:53,776 - INFO - Cache miss for item_id 10882. Data fetched from DB. Response time: 0.05689s
+2024-04-18 18:31:53,820 - INFO - Cache miss for item_id 23391. Data fetched from DB. Response time: 0.04277s
+2024-04-18 18:31:53,867 - INFO - Cache miss for item_id 310542. Data fetched from DB. Response time: 0.04564s
+2024-04-18 18:31:53,870 - INFO - Cache hit for item_id 265236. Response time: 0.00062s
+2024-04-18 18:31:53,912 - INFO - Cache miss for item_id 245540. Data fetched from DB. Response time: 0.04105s
+2024-04-18 18:31:53,987 - INFO - Cache miss for item_id 260278. Data fetched from DB. Response time: 0.06659s
+2024-04-18 18:31:54,033 - INFO - Cache miss for item_id 97772. Data fetched from DB. Response time: 0.04161s
+2024-04-18 18:31:54,035 - INFO - Cache hit for item_id 274751. Response time: 0.00014s
+2024-04-18 18:31:54,097 - INFO - Cache miss for item_id 143505. Data fetched from DB. Response time: 0.04884s
+2024-04-18 18:31:54,163 - INFO - Cache miss for item_id 200571. Data fetched from DB. Response time: 0.06395s
+2024-04-18 18:31:54,218 - INFO - Cache miss for item_id 319498. Data fetched from DB. Response time: 0.05280s
+2024-04-18 18:31:54,224 - INFO - Cache hit for item_id 265236. Response time: 0.00027s
+2024-04-18 18:31:54,226 - INFO - Cache hit for item_id 2666. Response time: 0.00090s
+2024-04-18 18:31:54,273 - INFO - Cache miss for item_id 239773. Data fetched from DB. Response time: 0.04615s
+2024-04-18 18:31:54,276 - INFO - Cache hit for item_id 114219. Response time: 0.00086s
+2024-04-18 18:31:54,278 - INFO - Cache hit for item_id 224577. Response time: 0.00061s
+2024-04-18 18:31:54,324 - INFO - Cache miss for item_id 315383. Data fetched from DB. Response time: 0.04430s
+2024-04-18 18:31:54,328 - INFO - Cache hit for item_id 321524. Response time: 0.00122s
+2024-04-18 18:31:54,384 - INFO - Cache miss for item_id 302950. Data fetched from DB. Response time: 0.05281s
+2024-04-18 18:31:54,425 - INFO - Cache miss for item_id 189479. Data fetched from DB. Response time: 0.03870s
+2024-04-18 18:31:54,469 - INFO - Cache miss for item_id 132764. Data fetched from DB. Response time: 0.04201s
+2024-04-18 18:31:54,474 - INFO - Cache hit for item_id 217796. Response time: 0.00406s
+2024-04-18 18:31:54,525 - INFO - Cache miss for item_id 17914. Data fetched from DB. Response time: 0.04967s
+2024-04-18 18:31:54,589 - INFO - Cache miss for item_id 154879. Data fetched from DB. Response time: 0.04933s
+2024-04-18 18:31:54,631 - INFO - Cache miss for item_id 202516. Data fetched from DB. Response time: 0.03955s
+2024-04-18 18:31:54,680 - INFO - Cache miss for item_id 46183. Data fetched from DB. Response time: 0.04657s
+2024-04-18 18:31:54,738 - INFO - Cache miss for item_id 90931. Data fetched from DB. Response time: 0.05696s
+2024-04-18 18:31:54,794 - INFO - Cache miss for item_id 47089. Data fetched from DB. Response time: 0.05411s
+2024-04-18 18:31:54,796 - INFO - Cache hit for item_id 211501. Response time: 0.00038s
+2024-04-18 18:31:54,799 - INFO - Cache hit for item_id 284948. Response time: 0.00050s
+2024-04-18 18:31:54,804 - INFO - Cache hit for item_id 193618. Response time: 0.00177s
+2024-04-18 18:31:54,853 - INFO - Cache miss for item_id 279978. Data fetched from DB. Response time: 0.04609s
+2024-04-18 18:31:54,856 - INFO - Cache hit for item_id 53198. Response time: 0.00157s
+2024-04-18 18:31:54,908 - INFO - Cache miss for item_id 259795. Data fetched from DB. Response time: 0.04994s
+2024-04-18 18:31:54,958 - INFO - Cache miss for item_id 14254. Data fetched from DB. Response time: 0.04737s
+2024-04-18 18:31:54,962 - INFO - Cache hit for item_id 35611. Response time: 0.00123s
+2024-04-18 18:31:55,021 - INFO - Cache miss for item_id 275408. Data fetched from DB. Response time: 0.04476s
+2024-04-18 18:31:55,074 - INFO - Cache miss for item_id 146392. Data fetched from DB. Response time: 0.04988s
+2024-04-18 18:31:55,075 - INFO - Cache hit for item_id 113500. Response time: 0.00044s
+2024-04-18 18:31:55,137 - INFO - Cache miss for item_id 39422. Data fetched from DB. Response time: 0.06055s
+2024-04-18 18:31:55,140 - INFO - Cache hit for item_id 128770. Response time: 0.00062s
+2024-04-18 18:31:55,236 - INFO - Cache miss for item_id 124541. Data fetched from DB. Response time: 0.09242s
+2024-04-18 18:31:55,318 - INFO - Cache miss for item_id 38185. Data fetched from DB. Response time: 0.08050s
+2024-04-18 18:31:55,390 - INFO - Cache miss for item_id 125731. Data fetched from DB. Response time: 0.06977s
+2024-04-18 18:31:55,397 - INFO - Cache hit for item_id 251132. Response time: 0.00412s
+2024-04-18 18:31:55,401 - INFO - Cache hit for item_id 220877. Response time: 0.00107s
+2024-04-18 18:31:55,456 - INFO - Cache miss for item_id 257606. Data fetched from DB. Response time: 0.04321s
+2024-04-18 18:31:55,462 - INFO - Cache hit for item_id 275239. Response time: 0.00131s
+2024-04-18 18:31:55,464 - INFO - Cache hit for item_id 175837. Response time: 0.00057s
+2024-04-18 18:31:55,467 - INFO - Cache hit for item_id 168817. Response time: 0.00059s
+2024-04-18 18:31:55,535 - INFO - Cache miss for item_id 196722. Data fetched from DB. Response time: 0.06682s
+2024-04-18 18:31:55,538 - INFO - Cache hit for item_id 101725. Response time: 0.00183s
+2024-04-18 18:31:55,604 - INFO - Cache miss for item_id 23975. Data fetched from DB. Response time: 0.06475s
+2024-04-18 18:31:55,611 - INFO - Cache hit for item_id 101725. Response time: 0.00083s
+2024-04-18 18:31:55,615 - INFO - Cache hit for item_id 156333. Response time: 0.00011s
+2024-04-18 18:31:55,618 - INFO - Cache hit for item_id 16729. Response time: 0.00026s
+2024-04-18 18:31:55,691 - INFO - Cache miss for item_id 201288. Data fetched from DB. Response time: 0.07145s
+2024-04-18 18:31:55,740 - INFO - Cache miss for item_id 194110. Data fetched from DB. Response time: 0.04705s
+2024-04-18 18:31:55,748 - INFO - Cache hit for item_id 191321. Response time: 0.00115s
+2024-04-18 18:31:55,790 - INFO - Cache miss for item_id 21326. Data fetched from DB. Response time: 0.03995s
+2024-04-18 18:31:55,837 - INFO - Cache miss for item_id 82528. Data fetched from DB. Response time: 0.04533s
+2024-04-18 18:31:55,901 - INFO - Cache miss for item_id 231155. Data fetched from DB. Response time: 0.05840s
+2024-04-18 18:31:55,903 - INFO - Cache hit for item_id 123552. Response time: 0.00036s
+2024-04-18 18:31:55,905 - INFO - Cache hit for item_id 84381. Response time: 0.00133s
+2024-04-18 18:31:55,908 - INFO - Cache hit for item_id 236115. Response time: 0.00060s
+2024-04-18 18:31:55,986 - INFO - Cache miss for item_id 244738. Data fetched from DB. Response time: 0.07576s
+2024-04-18 18:31:56,060 - INFO - Cache miss for item_id 19705. Data fetched from DB. Response time: 0.05823s
+2024-04-18 18:31:56,066 - INFO - Cache hit for item_id 150667. Response time: 0.00033s
+2024-04-18 18:31:56,112 - INFO - Cache miss for item_id 217761. Data fetched from DB. Response time: 0.04448s
+2024-04-18 18:31:56,162 - INFO - Cache miss for item_id 220258. Data fetched from DB. Response time: 0.04618s
+2024-04-18 18:31:56,234 - INFO - Cache miss for item_id 59246. Data fetched from DB. Response time: 0.06937s
+2024-04-18 18:31:56,282 - INFO - Cache miss for item_id 222644. Data fetched from DB. Response time: 0.04575s
+2024-04-18 18:31:56,331 - INFO - Cache miss for item_id 74629. Data fetched from DB. Response time: 0.04735s
+2024-04-18 18:31:56,383 - INFO - Cache miss for item_id 70149. Data fetched from DB. Response time: 0.04942s
+2024-04-18 18:31:56,386 - INFO - Cache hit for item_id 95929. Response time: 0.00082s
+2024-04-18 18:31:56,451 - INFO - Cache miss for item_id 96317. Data fetched from DB. Response time: 0.06298s
+2024-04-18 18:31:56,528 - INFO - Cache miss for item_id 208886. Data fetched from DB. Response time: 0.07198s
+2024-04-18 18:31:56,614 - INFO - Cache miss for item_id 43709. Data fetched from DB. Response time: 0.08263s
+2024-04-18 18:31:56,683 - INFO - Cache miss for item_id 18818. Data fetched from DB. Response time: 0.06627s
+2024-04-18 18:31:56,757 - INFO - Cache miss for item_id 263125. Data fetched from DB. Response time: 0.07157s
+2024-04-18 18:31:56,804 - INFO - Cache miss for item_id 101993. Data fetched from DB. Response time: 0.04459s
+2024-04-18 18:31:56,879 - INFO - Cache miss for item_id 161260. Data fetched from DB. Response time: 0.06350s
+2024-04-18 18:31:56,883 - INFO - Cache hit for item_id 101758. Response time: 0.00124s
+2024-04-18 18:31:56,886 - INFO - Cache hit for item_id 265884. Response time: 0.00083s
+2024-04-18 18:31:56,887 - INFO - Cache hit for item_id 71211. Response time: 0.00040s
+2024-04-18 18:31:56,889 - INFO - Cache hit for item_id 170646. Response time: 0.00074s
+2024-04-18 18:31:56,929 - INFO - Cache miss for item_id 186364. Data fetched from DB. Response time: 0.03820s
+2024-04-18 18:31:56,990 - INFO - Cache miss for item_id 163137. Data fetched from DB. Response time: 0.05877s
+2024-04-18 18:31:57,035 - INFO - Cache miss for item_id 274636. Data fetched from DB. Response time: 0.04183s
+2024-04-18 18:31:57,036 - INFO - Cache hit for item_id 242507. Response time: 0.00010s
+2024-04-18 18:31:57,087 - INFO - Cache miss for item_id 261364. Data fetched from DB. Response time: 0.05058s
+2024-04-18 18:31:57,129 - INFO - Cache miss for item_id 155343. Data fetched from DB. Response time: 0.03999s
+2024-04-18 18:31:57,183 - INFO - Cache miss for item_id 126562. Data fetched from DB. Response time: 0.05081s
+2024-04-18 18:31:57,184 - INFO - Cache hit for item_id 80858. Response time: 0.00055s
+2024-04-18 18:31:57,236 - INFO - Cache miss for item_id 77998. Data fetched from DB. Response time: 0.04963s
+2024-04-18 18:31:57,294 - INFO - Cache miss for item_id 228767. Data fetched from DB. Response time: 0.03783s
+2024-04-18 18:31:57,351 - INFO - Cache miss for item_id 170551. Data fetched from DB. Response time: 0.05280s
+2024-04-18 18:31:57,411 - INFO - Cache miss for item_id 247577. Data fetched from DB. Response time: 0.05594s
+2024-04-18 18:31:57,471 - INFO - Cache miss for item_id 165996. Data fetched from DB. Response time: 0.05732s
+2024-04-18 18:31:57,521 - INFO - Cache miss for item_id 146939. Data fetched from DB. Response time: 0.04710s
+2024-04-18 18:31:57,590 - INFO - Cache miss for item_id 171043. Data fetched from DB. Response time: 0.05967s
+2024-04-18 18:31:57,664 - INFO - Cache miss for item_id 138343. Data fetched from DB. Response time: 0.07128s
+2024-04-18 18:31:57,714 - INFO - Cache miss for item_id 318543. Data fetched from DB. Response time: 0.04719s
+2024-04-18 18:31:57,770 - INFO - Cache miss for item_id 37214. Data fetched from DB. Response time: 0.05200s
+2024-04-18 18:31:57,829 - INFO - Cache miss for item_id 233352. Data fetched from DB. Response time: 0.05881s
+2024-04-18 18:31:57,835 - INFO - Cache hit for item_id 157422. Response time: 0.00021s
+2024-04-18 18:31:57,903 - INFO - Cache miss for item_id 91555. Data fetched from DB. Response time: 0.06481s
+2024-04-18 18:31:57,908 - INFO - Cache hit for item_id 149701. Response time: 0.00069s
+2024-04-18 18:31:57,952 - INFO - Cache miss for item_id 93249. Data fetched from DB. Response time: 0.04212s
+2024-04-18 18:31:57,997 - INFO - Cache miss for item_id 85525. Data fetched from DB. Response time: 0.04326s
+2024-04-18 18:31:58,047 - INFO - Cache miss for item_id 219660. Data fetched from DB. Response time: 0.04560s
+2024-04-18 18:31:58,051 - INFO - Cache hit for item_id 17556. Response time: 0.00039s
+2024-04-18 18:31:58,113 - INFO - Cache miss for item_id 24825. Data fetched from DB. Response time: 0.05876s
+2024-04-18 18:31:58,172 - INFO - Cache miss for item_id 221371. Data fetched from DB. Response time: 0.05718s
+2024-04-18 18:31:58,223 - INFO - Cache miss for item_id 59779. Data fetched from DB. Response time: 0.04813s
+2024-04-18 18:31:58,279 - INFO - Cache miss for item_id 175203. Data fetched from DB. Response time: 0.05096s
+2024-04-18 18:31:58,339 - INFO - Cache miss for item_id 16586. Data fetched from DB. Response time: 0.05772s
